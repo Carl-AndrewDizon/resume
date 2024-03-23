@@ -1,0 +1,44 @@
+body {
+
+           
+background-color: gainsboro;
+
+        }
+
+        table {
+
+            width:
+600px; 
+
+            font-size:
+12px; 
+
+            border:
+2px solid transparent;
+
+           
+border-collapse: collapse;
+
+           
+font-family: Arial;
+
+           
+background-color: white;
+
+           
+table-layout: fixed;
+
+        }
+
+        td {
+
+            border:
+2px solid black;
+
+            padding:
+10px;
+
+           
+border-color: transparent;
+
+        }
